@@ -1,7 +1,5 @@
 package com.microcontrollerbg.tesy;
 
-public abstract class Transmitter {
+public class Transmitter {
 
-	protected Transmitter() {
-	}
 }

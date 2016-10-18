@@ -6,6 +6,6 @@
 
     <style name="Theme.Mydialog" parent="@android:style/Theme.Dialog"></style>
 
-    <style name="Theme.FullScreen" parent="@android:style/Theme.NoTitleBar.Fullscreen"></style>
+    <style name="Theme.FullScreen" parent="@android:style/Theme.Holo.Light"></style>
 
 </resources>
